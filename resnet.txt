@@ -1,0 +1,54 @@
+key: Golden_retriever_05257.jpgvalue: ['golden retriever', 'golden retriever', 1]
+key: German_shepherd_dog_04931.jpgvalue: ['german shepherd dog', 'german shepherd, german shepherd dog, german police dog, alsatian', 1]
+key: German_shepherd_dog_04890.jpgvalue: ['german shepherd dog', 'german shepherd, german shepherd dog, german police dog, alsatian', 1]
+key: cat_07.jpgvalue: ['cat', 'egyptian cat', 1]
+key: Golden_retriever_05195.jpgvalue: ['golden retriever', 'golden retriever', 1]
+key: Basset_hound_01034.jpgvalue: ['basset hound', 'basset, basset hound', 1]
+key: Poodle_07927.jpgvalue: ['poodle', 'standard poodle', 1]
+key: Boston_terrier_02259.jpgvalue: ['boston terrier', 'boston bull, boston terrier', 1]
+key: Miniature_schnauzer_06884.jpgvalue: ['miniature schnauzer', 'miniature schnauzer', 1]
+key: Saint_bernard_08010.jpgvalue: ['saint bernard', 'saint bernard, st bernard', 1]
+key: skunk_029.jpgvalue: ['skunk', 'skunk, polecat, wood pussy', 1]
+key: German_shorthaired_pointer_04986.jpgvalue: ['german shorthaired pointer', 'german shorthaired pointer', 1]
+key: Basenji_00963.jpgvalue: ['basenji', 'basenji', 1]
+key: Boston_terrier_02285.jpgvalue: ['boston terrier', 'boston bull, boston terrier', 1]
+key: Poodle_07956.jpgvalue: ['poodle', 'standard poodle', 1]
+key: Great_dane_05320.jpgvalue: ['great dane', 'great dane', 1]
+key: Dalmatian_04068.jpgvalue: ['dalmatian', 'dalmatian, coach dog, carriage dog', 1]
+key: Basenji_00974.jpgvalue: ['basenji', 'basenji', 1]
+key: Dalmatian_04017.jpgvalue: ['dalmatian', 'dalmatian, coach dog, carriage dog', 1]
+key: Saint_bernard_08036.jpgvalue: ['saint bernard', 'saint bernard, st bernard', 1]
+key: Rabbit_002.jpgvalue: ['rabbit', 'wood rabbit, cottontail, cottontail rabbit', 1]
+key: Golden_retriever_05223.jpgvalue: ['golden retriever', 'golden retriever', 1]
+key: Beagle_01141.jpgvalue: ['beagle', 'beagle', 1]
+key: cat_02.jpgvalue: ['cat', 'tabby, tabby cat', 1]
+key: Boxer_02426.jpgvalue: ['boxer', 'boxer', 1]
+key: Beagle_01170.jpgvalue: ['beagle', 'walker hound, walker foxhound', 0]
+key: Dalmatian_04037.jpgvalue: ['dalmatian', 'dalmatian, coach dog, carriage dog', 1]
+key: Collie_03797.jpgvalue: ['collie', 'collie', 1]
+key: Beagle_01125.jpgvalue: ['beagle', 'beagle', 1]
+key: Golden_retriever_05182.jpgvalue: ['golden retriever', 'leonberg', 0]
+key: Great_pyrenees_05435.jpgvalue: ['great pyrenees', 'great pyrenees', 1]
+key: fox_squirrel_01.jpgvalue: ['fox squirrel', 'fox squirrel, eastern fox squirrel, sciurus niger', 1]
+key: Great_pyrenees_05367.jpgvalue: ['great pyrenees', 'kuvasz', 0]
+key: great_horned_owl_02.jpgvalue: ['great horned owl', 'great grey owl, great gray owl, strix nebulosa', 0]
+key: Boston_terrier_02303.jpgvalue: ['boston terrier', 'boston bull, boston terrier', 1]
+key: cat_01.jpgvalue: ['cat', 'norwegian elkhound, elkhound', 0]
+key: polar_bear_04.jpgvalue: ['polar bear', 'ice bear, polar bear, ursus maritimus, thalarctos maritimus', 1]
+key: gecko_80.jpgvalue: ['gecko', 'tailed frog, bell toad, ribbed toad, tailed toad, ascaphus trui', 0]
+key: Cocker_spaniel_03750.jpgvalue: ['cocker spaniel', 'cocker spaniel, english cocker spaniel, cocker', 1]
+key: gecko_02.jpgvalue: ['gecko', 'african chameleon, chamaeleo chamaeleon', 0]
+The CNN architecture used is: resnet
+n_of_images : 40
+n_of_dog_images : 30
+n_of_non_dog_images : 10
+n_correct_dog_breed : 27
+n_correct_dog_matches : 30
+n_correct_non_dog_matches : 9
+n_correct_classified_pet_images : 33
+pct_correct_classified_dogs : 100.0
+pct_correct_classified_non_dogs : 90.0
+pct_correct_classified_dog_breed : 90.0
+pct_correct_classified_pet_images : 82.5
+
+** Total Elapsed Runtime: 0:0:5
